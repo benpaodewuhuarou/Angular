@@ -1,5 +1,4 @@
 import {NgModule} from '@angular/core';
-import { NgModel } from '@angular/forms/src/directives/ng_model';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { UsersComponent } from './users/users.component';
